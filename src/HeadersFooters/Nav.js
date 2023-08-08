@@ -19,7 +19,7 @@ const Nav = () => {
             <div className="p-3 navbar-cust" id="navbar-cust">
                 <div className="d-flex fw-bold text-white justify-content-between">
                     <div className="nav-custom-links">
-                        <NavLink to='/Home'>
+                        <NavLink to='/'>
                             <img src={image} width='150px' />
                         </NavLink>
                     </div>

@@ -107,7 +107,9 @@ const HomePage = () => {
                 </div>
                 <div>
                     <div>
-                        <div className='' style={{height:'300px', background:`url(${image3}) center no-repeat`, backgroundSize:'100% auto'}}></div>
+                        <div className='' style={{minHeight:'300px', background:`url(${image3}) center no-repeat`, backgroundSize:'100% auto'}}>
+                        
+                        </div>
                     </div>
                 </div>
             </div>
